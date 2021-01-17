@@ -5,7 +5,6 @@
 
 Hello! I am a random guy making random programs. I also am addicted to touhou. please someone help me.
 
-[![My Github Stats!](https://github-readme-stats.vercel.app/api?username=YohananDiamond&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;
 [![Languages I've most worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=YohananDiamond&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I know:

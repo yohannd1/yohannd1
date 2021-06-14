@@ -20,9 +20,10 @@ Notice this might be a little bit innacurate, since there are some repositories 
 
 #### I am learning / plan to learn:
 
-![C++](https://img.shields.io/badge/-C++-black?&logo=c%2b%2b&logoColor=00599C)
-![Nim](https://img.shields.io/badge/-Nim-black?&logo=Nim)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
+![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 ![Zig](https://img.shields.io/badge/-Zig-black)
+![Lua](https://img.shields.io/badge/-Lua-black?logo=Lua)
 
 #### Contact
 

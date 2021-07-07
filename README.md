@@ -7,7 +7,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohananDiamond&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Notice this might be a little bit innacurate, since there are some repositories I've cloned (specially in C).
+Note that the graphic above is a little bit innacurate, since there are some repositories I've cloned (specially in C).
 
 #### I know (to varying degrees):
 

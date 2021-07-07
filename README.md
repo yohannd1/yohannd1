@@ -9,7 +9,7 @@
 
 Notice this might be a little bit innacurate, since there are some repositories I've cloned (specially in C).
 
-#### I know:
+#### I know (to varying degrees):
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-black?&logo=C)

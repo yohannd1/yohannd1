@@ -9,8 +9,7 @@
 
 Note that the graphic above is a little bit innacurate, since there are some repositories I've cloned (specially in C).
 
-#### I know (to varying degrees):
-
+**I know (to varying degrees):**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-black?&logo=C)
 ![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust)
@@ -18,8 +17,7 @@ Note that the graphic above is a little bit innacurate, since there are some rep
 ![Posix SH](https://img.shields.io/badge/-Posix_SH-black?&logo=GNU%20Bash)
 ![Bash](https://img.shields.io/badge/-Bash-black?&logo=GNU%20Bash)
 
-#### I am learning / plan to learn:
-
+**I am learning / plan to learn:**
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
 ![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 ![Zig](https://img.shields.io/badge/-Zig-black)

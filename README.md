@@ -16,12 +16,12 @@ Note that the graphic above is a little bit innacurate, since there are some rep
 ![Linux](https://img.shields.io/badge/-Linux-black?&logo=linux)
 ![Posix SH](https://img.shields.io/badge/-Posix_SH-black?&logo=GNU%20Bash)
 ![Bash](https://img.shields.io/badge/-Bash-black?&logo=GNU%20Bash)
+![Lua](https://img.shields.io/badge/-Lua-black?logo=Lua)
 
 **I am learning / plan to learn:**
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
 ![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 ![Zig](https://img.shields.io/badge/-Zig-black)
-![Lua](https://img.shields.io/badge/-Lua-black?logo=Lua)
 
 #### Contact
 

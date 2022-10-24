@@ -3,6 +3,8 @@
   Go theck them out!
 -->
 
+Hey there! The name's Yohanan. I like programming and making music, and here I (like any other GitHub account) publish my projects and contribute on others's.
+
 #### Languages I've most worked on:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohananDiamond&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +25,8 @@ Note that the graphic above is a little bit innacurate, since there are some rep
 ![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 ![Zig](https://img.shields.io/badge/-Zig-black)
 
-#### Contact
+#### Social media
 
 * Matrix: yohanandiamond:matrix.org
-* Mastodon: [yohanandiamond@fosstodon.org](https://fosstodon.org/@yohanandiamond)
+* Mastodon (dormant): [yohanandiamond@fosstodon.org](https://fosstodon.org/@yohanandiamond)
+* Music channel (SwapXFO): https://www.youtube.com/channel/UC9F_yIpNXeAH1TMog56nMsA

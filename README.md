@@ -5,10 +5,6 @@
 
 Hey there! The name's Yohanan. I like programming and making music, and here I (like any other GitHub account) publish my projects and contribute on others's.
 
-#### Languages I've most worked on:
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YohananDiamond&langs_count=10&hide=Objective-C&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 Note that the graphic above is a little bit innacurate, since there are some repositories I've cloned (specially in C).
 
 **I know (to varying degrees):**

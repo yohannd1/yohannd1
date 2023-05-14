@@ -3,9 +3,7 @@
   Go theck them out!
 -->
 
-Hey there! The name's Yohanan. I like programming and making music, and here I (like any other GitHub account) publish my projects and contribute on others's.
-
-Note that the graphic above is a little bit innacurate, since there are some repositories I've cloned (specially in C).
+Hey there! I like programming and making music, and here I (like any other GitHub account) publish my projects and contribute to others'.
 
 **I know (to varying degrees):**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -26,5 +24,5 @@ Note that the graphic above is a little bit innacurate, since there are some rep
 #### Social media
 
 * Matrix: yohanandiamond:matrix.org
-* Mastodon (dormant): [yohanandiamond@fosstodon.org](https://fosstodon.org/@yohanandiamond)
+* ~~Mastodon: [yohanandiamond@fosstodon.org](https://fosstodon.org/@yohanandiamond)~~ (dormant)
 * Music channel (SwapXFO): https://www.youtube.com/channel/UC9F_yIpNXeAH1TMog56nMsA

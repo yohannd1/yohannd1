@@ -5,7 +5,7 @@
 
 Hey there! I like programming and making music, and here I (like any other GitHub account) publish my projects and contribute to others'.
 
-**I know (to varying degrees):**
+**I know (confidently):**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-black?&logo=C)
 ![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust)
@@ -13,13 +13,16 @@ Hey there! I like programming and making music, and here I (like any other GitHu
 ![Posix SH](https://img.shields.io/badge/-Posix_SH-black?&logo=GNU%20Bash)
 ![Bash](https://img.shields.io/badge/-Bash-black?&logo=GNU%20Bash)
 ![Lua](https://img.shields.io/badge/-Lua-black?logo=Lua)
+
+**I know (an okay amount)**:
+![Zig](https://img.shields.io/badge/-Zig-black)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 
 **I am learning / plan to learn:**
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
 ![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
-![Zig](https://img.shields.io/badge/-Zig-black)
+
 
 #### Social media
 

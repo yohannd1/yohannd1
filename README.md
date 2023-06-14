@@ -23,9 +23,7 @@ Hey there! I like programming and making music, and here I (like any other GitHu
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
 ![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 
-
-#### Social media
+#### Links / contact
 
 * Matrix: yohanandiamond:matrix.org
-* ~~Mastodon: [yohanandiamond@fosstodon.org](https://fosstodon.org/@yohanandiamond)~~ (dormant)
-* Music channel (SwapXFO): https://www.youtube.com/channel/UC9F_yIpNXeAH1TMog56nMsA
+* My music: https://www.youtube.com/@SwapXFO

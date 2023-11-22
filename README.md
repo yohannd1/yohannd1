@@ -18,10 +18,7 @@ Hey there! I like programming and making music, and here I (like any other GitHu
 ![Zig](https://img.shields.io/badge/-Zig-black)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
-
-**I am learning / plan to learn:**
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&logoColor=00599C)
-![Nim](https://img.shields.io/badge/-Nim-black?logo=Nim)
 
 #### Links / contact
 

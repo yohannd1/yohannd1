@@ -8,7 +8,7 @@ Hey there! I like programming and making music, and here I (like any
 other GitHub account) publish my projects and contribute to others'.
 
 Check out [my website](https://yohanandiamond.github.io/) for more
-detailed info on my projects>
+detailed info on my projects.
 
 Oh, and [I also do music :)](https://www.youtube.com/@SwapXFO)
 

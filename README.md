@@ -10,6 +10,10 @@ others'.
 
 I'm from Brazil (olá!) and also speak English.
 
+My main interests in programming are: **programming languages** (parsers
+and compilers); **game development**; **signal processing**;
+**emulation**; and **low-level computing** in general.
+
 Check out [my website](https://yohannd1.github.io/) for more
 detailed info on my projects.
 

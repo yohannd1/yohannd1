@@ -4,13 +4,16 @@
   [adamalston's](https://github.com/adamalston) READMEs :P
 -->
 
-Hey there! I like programming and making music, and here I (like any
-other GitHub account) publish my projects and contribute to others'.
+Hey there! My name's Yohanan and I'm a programmer and musician. Here I
+(like any other GitHub account) publish my projects and contribute to
+others'.
 
-Check out [my website](https://yohanandiamond.github.io/) for more
+I'm from Brazil (olá!) and also speak English.
+
+Check out [my website](https://yohannd1.github.io/) for more
 detailed info on my projects.
 
-Oh, and [I also do music :)](https://www.youtube.com/@SwapXFO)
+[And here's my music :)](https://www.youtube.com/@SwapXFO)
 
 **I know (confidently):**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)

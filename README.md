@@ -4,18 +4,15 @@
   [adamalston's](https://github.com/adamalston) READMEs :P
 -->
 
-Hey there! My name's Yohanan and I'm a programmer and musician. Here I
-(like any other GitHub account) publish my projects and contribute to
-others'.
-
-I'm from Brazil (olá!) and also speak English.
+Hey there! My name is Yohanan and I'm a programmer and musician from
+Brazil.
 
 My main interests in programming are: **programming languages** (parsers
 and compilers); **game development**; **signal processing**;
 **emulation**; and **low-level computing** in general.
 
 Check out [my website](https://yohannd1.github.io/) for more
-detailed info on my projects.
+detailed info on my projects and endeavors.
 
 [And here's my music :)](https://www.youtube.com/@SwapXFO)
 
